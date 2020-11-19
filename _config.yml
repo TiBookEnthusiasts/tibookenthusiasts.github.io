@@ -44,3 +44,11 @@ plugins:
 
 exclude:
   - Makefile
+
+# Just the Docs
+
+aux_links:
+  "TiBook Enthusiasts on GitHub":
+    - "//github.com/TiBookEnthusiasts/tibookenthusiasts.github.io"
+
+aux_links_new_tab: true
