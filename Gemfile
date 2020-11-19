@@ -8,3 +8,5 @@ gem "github-pages", "= 209", group: :jekyll_plugins
 
 group :jekyll_plugins do
 end
+
+gem "just-the-docs", "= 0.3.3"
