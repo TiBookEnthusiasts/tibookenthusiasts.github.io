@@ -18,7 +18,7 @@ This contribution guide exists so that you and other contributors will get the m
 - Support questions… Yes really! If you are facing it then you can't be the only one. It is an opportunity to better the website. Create an [Issue Report](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/issues/new) to ask your question since it is neither a bug report nor a feature request.
 - Whatever things that *aren't* listed here that *should be*.
 
-# Contribution Expectations
+# <a id="contribution-expectations"></a>Contribution Expectations
 
 <dl>
 <dt><strong>Grammar and Language</strong></dt>
