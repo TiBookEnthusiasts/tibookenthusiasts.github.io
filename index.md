@@ -13,7 +13,7 @@ permalink: /
 
 ### License
 
-{{ site.title}} is distributed under the [CC0 1.0 license](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/LICENSE.MD).
+{{ site.title}} is distributed under the [CC0 1.0 license](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/LICENSE.md).
 
 ### Code of Conduct
 
