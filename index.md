@@ -10,3 +10,7 @@ layout: home
 ## About the project
 
 {{ site.title}} is &copy; 2020-{{ "now" | date: "%Y" }} by [Grant Rettke](https://www.wisdomandwonder.com/).
+
+### License
+
+{{ site.title}} is distributed under the [CC0 1.0 license](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/LICENSE.MD).
