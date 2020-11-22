@@ -26,11 +26,9 @@ Have a great day!
 
 ## About the project
 
-{{ site.title}} is &copy; 2020-{{ "now" | date: "%Y" }} by [Grant Rettke](https://www.wisdomandwonder.com/).
+### Support
 
-### License
-
-{{ site.title}} is distributed under the [CC0 1.0 license](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/LICENSE.md).
+Please contact `tibookenthusiast@tibookenthusiasts.org` for support.
 
 ### Contributing
 
@@ -41,3 +39,7 @@ When contributing to this website, please first discuss the change you wish to m
 {{ site.title }} is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+### License and Copyright
+
+{{ site.title}} is distributed under the [CC0 1.0 license](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/LICENSE.md).
