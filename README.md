@@ -5,7 +5,7 @@
 
 ## Contributing
 
-[Bug reports](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/issues) and [pull requests](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/pulls) are welcome.
+[Feature Requests](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/issues/new/choose) and [Bug Reports](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/issues/new/choose) are welcome.
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to [our Code of Conduct](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/CODE_OF_CONDUCT.md).
 
