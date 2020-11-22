@@ -11,6 +11,15 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 ### Submitting content changes:
 
+#### By Hand
+
+- Open a [Feature Request](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/issues/new/choose).
+- Fill out the questionnaire.
+- Review and discuss the request further.
+- When features are updated [TiBookEnthusiasts](https://www.tibookenthusiasts.org/) will update automatically soon after your pull request is merged.
+
+#### Via Git
+
 - Open a [Pull Request](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/pulls).
 - Await code review.
 - [TiBookEnthusiasts](https://www.tibookenthusiasts.org/) will update automatically soon after your pull request is merged.
