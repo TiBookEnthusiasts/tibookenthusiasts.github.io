@@ -6,7 +6,7 @@ description: "TiBook Enthusiasts is a modern, responsive, and lovingly maintaine
 layout: default
 ---
 
-# Focus on having fun with your Apple PowerBook G4 Titanium
+# Focus on having fun with your Apple PowerBook G4 Titanium (TiBook)
 {: .fs-9 }
 
 {{ site.title }} gives you everything you need to make it happen.
