@@ -15,6 +15,10 @@ permalink: /
 
 {{ site.title}} is distributed under the [CC0 1.0 license](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/blob/master/LICENSE.md).
 
+### Contributing
+
+When contributing to this website, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io#contributing).
+
 ### Code of Conduct
 
 {{ site.title }} is committed to fostering a welcoming community.
