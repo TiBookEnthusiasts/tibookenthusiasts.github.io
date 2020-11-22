@@ -44,7 +44,13 @@ plugins:
 #   - vendor/ruby/
 
 exclude:
+  - CNAME
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE.md
   - Makefile
+  - README.md
+  - SUPPORT.md
 
 # Just the Docs
 
