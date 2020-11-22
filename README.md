@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">TiBook Enthusiasts</h1>
-    <p align="center">A modern, responsive, and lovingly maintained website for Apple PowerBook G4 Enthusiasts.</p>
+    <p align="center">A modern, responsive, and lovingly maintained website for Apple PowerBook G4 Titanium Enthusiasts.</p>
 </p>
 
 ## Contributing

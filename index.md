@@ -2,11 +2,11 @@
 title: Home
 permalink: /
 nav_order: 1
-description: "TiBook Enthusiasts is a modern, responsive, and lovingly maintained website for Apple PowerBook G4 Enthusiasts"
+description: "TiBook Enthusiasts is a modern, responsive, and lovingly maintained website for Apple PowerBook G4 Titanium Enthusiasts"
 layout: default
 ---
 
-# Focus on having fun with your Apple PowerBook G4
+# Focus on having fun with your Apple PowerBook G4 Titanium 
 {: .fs-9 }
 
 {{ site.title }} gives you everything you need to make it happen.
