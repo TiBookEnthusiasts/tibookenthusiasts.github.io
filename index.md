@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+---
+
+## About the project
+
+{{ site.title}} &copy; 2020-{{ "now" | date: "%Y" }} by [Grant Rettke](https://www.wisdomandwonder.com/).
