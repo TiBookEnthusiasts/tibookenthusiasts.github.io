@@ -16,7 +16,7 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 - Open a [Feature Request](https://github.com/TiBookEnthusiasts/tibookenthusiasts.github.io/issues/new/choose).
 - Fill out the questionnaire.
 - Review and discuss the request further.
-- When features are updated [TiBookEnthusiasts](https://www.tibookenthusiasts.org/) will update automatically soon after your pull request is merged.
+- When features are updated [TiBookEnthusiasts](https://www.tibookenthusiasts.org/) will update automatically soon thereafter.
 
 #### Via Git
 
