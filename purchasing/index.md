@@ -10,5 +10,5 @@ has_children: true
 {: .fs-9 }
 
 "Always have a plan when you shop."<br>
--- Anonymous TiBook Enthusiast
+-- TiBook Enthusiast
 {: .fs-6 .fw-300 }
