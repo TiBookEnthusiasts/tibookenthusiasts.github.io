@@ -28,7 +28,7 @@ Have a great day!
 
 ### Support
 
-Please contact `tibookenthusiast@tibookenthusiasts.org` for support.
+Please contact `grant@wisdomandwonder.com` for support.
 
 ### Contributing
 
